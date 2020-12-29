@@ -13,6 +13,9 @@ target=$1
 pkgname=$2
 command=$3
 
+pwd
+ls
+
 # assumes that package files are in a subdirectory
 # of the same name as "pkgname", so this works well
 # with "aurpublish" tool
