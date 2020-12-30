@@ -1,4 +1,4 @@
-name: Arch Linux PKGBUILD builder action
+name: Arch Linux PKGBUILD builder action forked
 description: Builds an validates PKGBUILD definition
 
 branding:
