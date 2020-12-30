@@ -57,7 +57,7 @@ install_deps() {
 case $target in
     pkgbuild)
         namcap PKGBUILD
-        install_deps
+        # install_deps
         makepkg --syncdeps --noconfirm
         namcap "${pkgname}"-*
 
